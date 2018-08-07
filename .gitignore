@@ -3,7 +3,7 @@
 .sass-cache
 _site
 Gemfile.lock
-_site/
 _config.yml
-projects/*
 index.html
+_site/
+_data/projects/*
